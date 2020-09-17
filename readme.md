@@ -1,9 +1,3 @@
-<!doctype html>
-<html>
-<head>
-  <title>시간과 기억 그 사이의 추억</title>
-  <meta charset="utf-8">
-</head>
 <body>
   <h1>러브앤프로듀서 이택언 × 이 현 ＝ #택현</h1>
   <ol>
@@ -14,4 +8,3 @@
   <h2>러브앤프로듀서 이택언 × 이 현 ＝ #택현</h2>
   <img src="main.png" width="80%">
 </body>
-</html>
